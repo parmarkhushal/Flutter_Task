@@ -21,7 +21,7 @@ Employee Data Viewer is a Flutter application that fetches employee data from an
    - The main screen displays a list of employees with their basic details.
 
 3. **Filtering Data:**
-   - Use the filter options provided to refine the list based on criteria such as department, role, or any other attribute.
+   - Use the filter options provided to refine the list based on criteria such as country, gender, or any other attribute.
 
 ## Project Interface
 
